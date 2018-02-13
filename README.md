@@ -1,5 +1,5 @@
 # Machine-Learning
-[Machine Learning](https://community-cdn-digitalocean-com.global.ssl.fastly.net/assets/tutorials/images/large/introduction-to-machine-learning_social.png?1510178550)
+[Machine Learning](https://community-cdn-digitalocean-com.global.ssl.fastly.net/assets/tutorials/images/large/introduction-to-machine-learning_social.png)
    
    While I have been studying Machine Learning for awhile, I never really proper did it. I have only read books and practice, however, the process is usually slower because I'm not sure about lots of stuffs and don't have any one to ask about. 
 
