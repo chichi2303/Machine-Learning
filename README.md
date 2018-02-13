@@ -3,6 +3,6 @@
 
   I decided to take a proper class just so I have a concrete idea on what I'm doing and more knowledge in the theory part. The class is [Machine Learning A-Z™: Hands-On Python & R In Data Science](https://www.udemy.com/machinelearning/learn/v4/). 
 
-    `<addr>`So far it has been really nice experiences. I really enjoy it and and am able to include some stuffs just so I can understand things better. I divided the sections into 2 parts: R and Python as I feel like both will be very handy. 
+   So far it has been really nice experiences. I really enjoy it and and am able to include some stuffs just so I can understand things better. I divided the sections into 2 parts: R and Python as I feel like both will be very handy. 
 
-    `<addr>` Check it out! ;)
+   Check it out! ;)
